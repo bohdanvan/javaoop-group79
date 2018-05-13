@@ -3,6 +3,7 @@ Prog.kiev.ua. Java OOP. Группа 74
 
 ## Cсылки на форум
 
+[Java OOP. Богдан. Группа 79. Лекции 1-2 (12.05.2018)](https://prog.kiev.ua/forum/index.php/topic,3622.0.html)
 
 ## Запуск проекта локально в Intellij IDEA
 
